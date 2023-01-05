@@ -3,4 +3,4 @@ This custom-made Tableau dashboard provides a sample of my data visualization wo
 deliver at-a-glance insights 
 (please note that the underlying data is public mental health survey data from Kaggle.com and not real data from any company. The logo displayed is for example purposes only).
 
-![](tableau_example.gif)
+![](Tableau_Example.gif)
